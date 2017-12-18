@@ -180,12 +180,20 @@ a {transition: .25s all;}
 }
 
 /* Form */
-.form, input[type="name"], input[type="email"], input[type="text"], textarea {
+.form {
   font-family: 'Roboto Mono', monospace;
+  color: #74777B;
+  font-size: 1.2rem;
 }
 
 .typewriter {
   font-family: 'Roboto Mono', monospace;
+}
+
+/* social */
+.social-network {
+  padding-top: 1rem;
+  padding-bottom: 1.9rem;
 }
 
 /*footer*/
