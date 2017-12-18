@@ -194,9 +194,9 @@ a.form:focus, a.form:hover {
 }
 
 /* social */
-.social-network {
-  padding-top: 0.5rem;
-  padding-bottom: 1.9rem;
+
+ul.social-network {
+    list-style:none;
 }
 
 /*footer*/
