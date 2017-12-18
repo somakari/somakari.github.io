@@ -184,9 +184,12 @@ a {transition: .25s all;}
 .form {
   color: #74777B;
 }
-a.form:focus, a.form:hover {
+a.form {
+  text-decoration: underline;
   color: red;
-  text-decoration: none;
+}
+a.form:focus, a.form:hover {
+  color: #ff6300;
 }
 
 .typewriter {
