@@ -27,6 +27,7 @@ body {
 html,
 body {
   height: 100%;
+  font-size: 19px;
   /*background-color: #333;*/
 }
 
@@ -60,7 +61,7 @@ button {
 
 /*trabajos*/
 .trabajos {
-  padding-top: 7rem;
+  padding-top: 2rem;
 }
 
 // Box shadow helper
@@ -136,7 +137,7 @@ a {transition: .25s all;}
 /* End my parallax */
 
 .section-content {
-  padding: 5rem 0;
+  padding: 1rem 0;
 }
 
 /*
@@ -181,9 +182,11 @@ a {transition: .25s all;}
 
 /* Form */
 .form {
-  font-family: 'Roboto Mono', monospace;
   color: #74777B;
-  font-size: 1.2rem;
+}
+a.form:focus, a.form:hover {
+  color: red;
+  text-decoration: none;
 }
 
 .typewriter {
@@ -192,7 +195,7 @@ a {transition: .25s all;}
 
 /* social */
 .social-network {
-  padding-top: 1rem;
+  padding-top: 0.5rem;
   padding-bottom: 1.9rem;
 }
 
