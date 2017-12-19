@@ -2,7 +2,7 @@
 
 var quotes=new Array()
 
-quotes[0]='"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, ‘I will try again tomorrow." <i>—Mary Anne Radmacher</i>'
+quotes[0]='"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying: I will try again tomorrow." <i>—Mary Anne Radmacher</i>'
 
 quotes[1]='"If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you." <i>—Steve Jobs</i>'
 
