@@ -186,7 +186,7 @@ a {transition: .25s all;}
 }
 a.form {
   text-decoration: underline;
-  color: red;
+  color: #d9534f;
 }
 a.form:focus, a.form:hover {
   color: #ff6300;
