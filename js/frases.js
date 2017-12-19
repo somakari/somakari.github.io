@@ -2,69 +2,69 @@
 
 var quotes=new Array()
 
-quotes[0]='"Sólo después de que el último árbol haya sido cortado. Sólo después de que el último río hay sido envenenado. Sólo después de que el último pez haya sido pescado. Sólo entonces descubrirás que el dinero no se puede comer" <i>-Profecía de los Indios Cree</i>'
+quotes[0]='"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, ‘I will try again tomorrow." <i>—Mary Anne Radmacher</i>'
 
-quotes[1]='"Es una locura odiar a todas las rosas sólo porque una te pinchó. Renunciar a todos tus sueños sólo porque uno de ellos no se cumplió" <i>-El Principito</i>'
+quotes[1]='"If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you." <i>—Steve Jobs</i>'
 
-quotes[2]='"Todo sucede por alguna razón"'
+quotes[2]='"Mistakes are the sea of opportunity." <i>—Yoshiko Shinohara</i>'
 
-quotes[3]='"Si imaginas algo, induces que suceda… Y si quieres algo, lo logras" <i>-Heidemarie Schwermer</i>'
+quotes[3]='"With every step I take towards letting go, I have more freedom." <i>—Heidemarie Schwermer</i>'
 
-quotes[4]='"Si vives cada día como si fuera el último, seguro que acertarás" <i>-Steve Jobs</i>'
+quotes[4]='"Smile, breathe and go slowly." <i>-Thich Nhat Hanh</i>'
 
-quotes[5]='"Sólo con el corazón se puede ver bien; lo esencial es invisible para los ojos" <i>-El Principito</i>'
+quotes[5]='"Life is not measured by the number of breaths we take, but by the moments that take our breath away." <i>—Maya Angelou</i>'
 
-quotes[6]='"La herramienta no hace al artista"'
+quotes[6]='"Security is mostly a superstition. Life is either a daring adventure or nothing." <i>—Helen Keller</i>'
 
-quotes[7]='"El futuro pertenece a quienes creen en la belleza de sus sueños" <i>-Eleanor Roosevelt</i>'
+quotes[7]='"We may encounter many defeats but we must not be defeated." <i>—Maya Angelou</i>'
 
-quotes[8]='"Las personas que no tienen ninguna esperanza son fáciles de dominar, y quien tiene el dominio tiene el poder" <i>-La Historia Interminable</i>'
+quotes[8]='"Optimism is the faith that leads to achievement." <i>—Helen Keller</i>'
 
-quotes[9]='"Si no escalas la montaña jamás podrás disfrutar el paisaje" <i>-Pablo Neruda</i>'
+quotes[9]='"Power’s not given to you. You have to take it." <i>—Beyoncé Knowles</i>'
 
-quotes[10]='"No te rindas. Eso es exactamente lo que quieren que hagas"'
+quotes[10]='"Step out of the history that is holding you back. Step into the new story you are willing to create." <i>—Oprah Winfrey</i>'
 
-quotes[11]='"Por muy arriba que escales, muy rápido que vayas o muy alto que vueles. Si quieres ver el 70% del planeta tendrás que sumergirte"'
+quotes[11]='"Learn from the mistakes of others. You can’t live long enough to make them all yourself." <i>—Eleanor Roosevelt</i>'
 
-quotes[12]='"La felicidad no es una estación a la que se llega, sino una manera de viajar"'
+quotes[12]='"When I’m hungry, I eat. When I’m thirsty, I drink. When I feel like saying something, I say it." <i>—Madonna</i>'
 
-quotes[13]='"Solo aquellos que se atreven a tener grandes fracasos terminan consiguiendo grandes éxitos" <i>-Robert F. Kennedy</i>'
+quotes[13]='"No one can make you feel inferior without your consent." <i>—Eleanor Roosevelt</i>'
 
-quotes[14]='"Nunca se debe gatear cuando se tiene el impulso de volar" <i>-Hellen Keller</i>'
+quotes[14]='"It takes a great deal of courage to stand up to your enemies, but even more to stand up to your friends." <i>—J. K. Rowling</i>'
 
-quotes[15]='"Descubrimos cosas que desconocemos, pero que antes no sabíamos que desconocíamos"'
+quotes[15]='"In order to be irreplaceable one must always be different." <i>—Coco Chanel</i>'
 
-quotes[16]='"Quien es feliz hará felices a los demás también" <i>-Anne Frank</i>'
+quotes[16]='"I can’t think of any better representation of beauty than someone who is unafraid to be herself." <i>—Emma Stone</i>'
 
-quotes[17]='"Jamás algo que valga la pena será sencillo" <i>-Nicholas Sparks</i>'
+quotes[17]='"I never dreamed about success. I worked for it." <i>—Estée Lauder</i>'
 
-quotes[18]='"Si amas algo déjalo libre. Si vuelve, es tuyo; si no lo hace, nunca lo fue"'
+quotes[18]='"Option A is not available. So let’s kick the sh** out of option B." <i>—Sheryl Sandberg</i>'
 
-quotes[19]='"La vida no es esperar a que pase la tormenta, es aprender a bailar bajo la lluvia"'
+quotes[19]='"People respond well to those that are sure of what they want." <i>—Anna Wintour</i>'
 
-quotes[20]='"No puedo cambiar la dirección del viento, pero sí ajustar mis velas para llegar siempre a mi destino"'
+quotes[20]='"Find the smartest people you can and surround yourself with them." <i>—Marissa Meyer</i>'
 
-quotes[21]='"Como no sabían que era imposible, lo hicieron"'
+quotes[21]='"The way you tell your story to yourself matters." <i>—Amy Cuddy</i>'
 
-quotes[22]='"Si buscas resultados distintos, no hagas siempre lo mismo" <i>-Albert Einstein</i>'
+quotes[22]='"Run to the fire; don’t hide from it." <i>—Meg Whitman</i>'
 
-quotes[23]='"La cura para todo es siempre agua salada: el sudor, las lágrimas o el mar" <i>-Isak Dinesen</i>'
+quotes[23]='"Getting past those labels, for me, pretty much really easy because I define myself." <i>—Serena Williams</i>'
 
-quotes[24]='"El tiempo es el mejor autor: siempre encuentra un final perfecto" <i>-Charles Chaplin</i>'
+quotes[24]='"There is only one true authority in your life, and it is you. You make the decisions." <i>—Steve Pavlina</i>'
 
-quotes[25]='"Cada vez que enseñes, enseña también a dudar de aquello que enseñas" <i>-José Ortega y Gasset</i>'
+quotes[25]='"I wouldn’t ask anyone to do anything I wouldn’t do myself." <i>—Indra Nooyi</i>'
 
-quotes[26]='"Cuando me sumerjo, olvido el 29% del planeta Tierra" <i>-Jordi Colom</i>'
+quotes[26]='"When we are growing up there are all sorts of people telling us what to do when really what we need is space to work out who to be." <i>—Ellen Page</i>'
 
-quotes[27]='"Si no puedo dibujarlo, es que no lo entiendo" <i>-Albert Einstein</i>'
+quotes[27]='"Feet, what do I need them for if I have wings to fly." <i>—Frida Kahlo</i>'
 
-quotes[28]='"Si supiese qué es lo que estoy haciendo, no lo llamaría investigación, ¿verdad?" <i>-Albert Einstein</i>'
+quotes[28]='"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us." <i>—Helen Keller</i>'
 
-quotes[29]='"Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí" <i>-Confucio</i>'
+quotes[29]='"Nothing is impossible, the word itself says I´m possible!" <i>—Audrey Hepburn</i>'
 
-quotes[30]='"Aprendí que los principios dan miedo, que los finales son tristes y que lo que importa es el camino"'
+quotes[30]='"Isn´t it nice to think that tomorrow is a new day with no mistakes in it yet?" <i>— L.M. Montgomery</i>'
 
-quotes[31]='"Aceptamos el amor que creemos merecer" <i>-Stephen Chbosky</i>'
+quotes[31]='"The worst part of success is trying to find someone who is happy for you." <i>— Bette Midler</i>'
 
 var whichquote=Math.floor(Math.random()*(quotes.length))
 document.write(quotes[whichquote])
