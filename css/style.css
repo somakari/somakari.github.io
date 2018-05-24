@@ -230,6 +230,16 @@ a.social-icon {
 }
 
 /*
+* Embedding Tengwar on Websites
+*/
+@font-face {
+    font-family: "FreeMonoTengwar";
+    src: local("FreeMonoTengwar"),
+    local("FreeMonoTengwar-embedding"),
+    url("/font/FreeMonoTengwar-embedding.ttf") format("TrueType");
+}
+
+/*
  * Affix and center
  */
  /* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
