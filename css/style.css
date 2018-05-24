@@ -252,6 +252,10 @@ a.social-icon {
 */
 @font-face {
     font-family: "FreeMonoTengwar";
+    src: url("/font/FreeMonoTengwar-embedding.eot");
+}
+@font-face {
+    font-family: "FreeMonoTengwar";
     src: local("FreeMonoTengwar"),
     local("FreeMonoTengwar-embedding"),
     url("/font/FreeMonoTengwar-embedding.ttf") format("TrueType");
