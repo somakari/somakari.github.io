@@ -195,6 +195,24 @@ a.form:focus, a.form:hover {
   font-family: 'Roboto Mono', monospace;
 }
 
+/* Brand cool */
+.brand-content {
+  font-family: 'Fira Sans', sans-serif;
+}
+h1.brand-cool {
+  font-size: 5em;
+  font-weight: 900;
+}
+.meaning {
+  font-size: 1.5em;
+}
+.brand-name {
+  margin: 40px;
+  background: linear-gradient(330deg, #1bbcb1 0%, #28c9d7 25%, #52e0e0 50%, #9952e0 75%, #37b9e9 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
 /* social */
 
 ul.social-network {
