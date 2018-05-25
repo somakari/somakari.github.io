@@ -208,7 +208,7 @@ h1.brand-cool {
 }
 .brand-name {
   margin: 40px;
-  background: linear-gradient(330deg, #1bbcb1 0%, #28c9d7 25%, #52e0e0 50%, #9952e0 75%, #37b9e9 100%);
+  background: linear-gradient(330deg, rgba(27, 188, 177, 1) 0%, rgba(40, 201, 215) 25%, rgba(82, 224, 224, 1) 50%, rgba(153, 82, 224, 1) 75%, rgba(55, 185, 233, 1) 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: rgba(255,255,255,0);
 }
