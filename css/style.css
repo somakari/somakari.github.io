@@ -209,11 +209,11 @@ h1.brand-cool {
 }
 .brand-name {
   margin: 20px;
-  background: linear-gradient(333deg, rgba(27, 188, 177, 1), rgba(40, 201, 215), rgba(82, 224, 224, 1) 50%, rgba(153, 82, 224, 1) 75%);
+  background: linear-gradient(60deg, rgba(40, 201, 215) 20%, rgba(153, 82, 224, 1) 70%, rgba(82, 224, 224, 1));
   background-clip: text;
   -webkit-background-clip: text;
   /*-webkit-text-fill-color: rgba(255,255,255,0);*/
-  color: rgba(255,255,255,0);
+  color: rgba(0, 0, 0, 0);
 }
 
 /* social */
