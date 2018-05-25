@@ -212,7 +212,8 @@ h1.brand-cool {
   background: linear-gradient(333deg, rgba(27, 188, 177, 1), rgba(40, 201, 215), rgba(82, 224, 224, 1) 50%, rgba(153, 82, 224, 1) 75%);
   background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: rgba(255,255,255,0);
+  /*-webkit-text-fill-color: rgba(255,255,255,0);*/
+  color: rgba(255,255,255,0);
 }
 
 /* social */
