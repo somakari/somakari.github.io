@@ -206,14 +206,11 @@ h1.brand-cool {
 }
 .meaning {
   font-size: 1.5em;
+  color: #6B2064;
 }
 .brand-name {
-  margin: 20px;
-  background: linear-gradient(60deg, rgba(40, 201, 215) 20%, rgba(153, 82, 224, 1) 70%, rgba(82, 224, 224, 1));
-  background-clip: text;
-  -webkit-background-clip: text;
-  /*-webkit-text-fill-color: rgba(255,255,255,0);*/
-  color: rgba(0, 0, 0, 0);
+  margin: 15px;
+  color: #40C9D7;
 }
 
 /* social */
