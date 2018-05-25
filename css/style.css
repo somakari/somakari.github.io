@@ -210,7 +210,7 @@ h1.brand-cool {
   margin: 40px;
   background: linear-gradient(330deg, #1bbcb1 0%, #28c9d7 25%, #52e0e0 50%, #9952e0 75%, #37b9e9 100%);
 -webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+-webkit-text-fill-color: rgba(255,255,255,0);
 }
 
 /* social */
