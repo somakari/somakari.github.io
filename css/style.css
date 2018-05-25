@@ -196,6 +196,7 @@ a.form:focus, a.form:hover {
 }
 
 /* Brand cool */
+
 .brand-content {
   font-family: 'Fira Sans', sans-serif;
 }
@@ -207,7 +208,7 @@ h1.brand-cool {
   font-size: 1.5em;
 }
 .brand-name {
-  margin: 40px;
+  margin: 20px;
   background: linear-gradient(330deg, rgba(27, 188, 177, 1) 0%, rgba(40, 201, 215) 25%, rgba(82, 224, 224, 1) 50%, rgba(153, 82, 224, 1) 75%, rgba(55, 185, 233, 1) 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: rgba(255,255,255,0);
