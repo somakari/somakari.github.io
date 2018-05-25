@@ -184,11 +184,12 @@ a {transition: .25s all;}
   color: #74777B;
 }
 a.form {
-  text-decoration: underline;
+  /*text-decoration: underline;*/
   color: #d9534f;
 }
 a.form:focus, a.form:hover {
   color: #ff6300;
+  text-decoration: underline;
 }
 
 .typewriter {
