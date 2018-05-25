@@ -184,7 +184,6 @@ a {transition: .25s all;}
   color: #74777B;
 }
 a.form {
-  /*text-decoration: underline;*/
   color: #d9534f;
 }
 a.form:focus, a.form:hover {
