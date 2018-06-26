@@ -232,10 +232,7 @@ h1.brand-cool {
 }
 
 /* Latest Posts */
-#posts {
-  padding-top: 4rem;
-}
-.latest-posts {
+section#posts {
   padding-top: 4rem;
 }
 .latest-posts .section-description {
