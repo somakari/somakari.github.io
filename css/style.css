@@ -1,11 +1,24 @@
 /*
  * Globals
  */
-
+/* New color */
+h2, h4, h5 {
+  color: #3d3b5b;
+}
+#work p, #posts p, #features-work p, .typewriter, div.text-center {
+  color: #3d3b5b;
+}
 /* Links */
 a,
 a:focus,
 a:hover {
+  color: #fff;
+}
+
+/* button Links*/
+a.btn.btn-outline-danger:focus
+ {
+   background-color: #d9534f;
   color: #fff;
 }
 
@@ -15,6 +28,11 @@ a:hover {
 .btn-secondary:focus {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
+}
+
+/* Font-size sections */
+#work, #about, #posts, #features-work p {
+  font-size: 1.25rem;
 }
 
 /*
@@ -45,13 +63,13 @@ button {
 
 /* mouse text selection color*/
 ::-moz-selection { /* Code for Firefox */
-    color:#fff;
-    background:#40C9D7;
+    color:#000;
+    background:#fee856;
 }
 
 ::selection {
-    color:#fff;
-    background:#40C9D7;
+    color:#000;
+    background:#fee856;
 }
 
 /* navbar */
@@ -201,7 +219,7 @@ a {transition: .25s all;}
 .form {
   color: #74777B;
 }
-a.form {
+a.form, i.fas.fa-heartbeat {
   color: #d9534f;
 }
 a.form:focus, a.form:hover {
@@ -237,7 +255,7 @@ section#posts {
 }
 .latest-posts .section-description {
   line-height: 1.6;
-  width: 60%;
+  width: 80%;
   margin: 0 auto 35px;
 }
 .latest-posts .card-link {
@@ -246,6 +264,45 @@ section#posts {
 }
 .latest-posts .card {
   margin-bottom: 25px;
+}
+
+/* Features */
+.features {
+  background: #40C9D7;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.features-heading {
+  margin-bottom: 3rem;
+}
+.features-copy {
+  line-height: 1.5;
+}
+.features-copy p {
+  margin-bottom: 30px;
+}
+#features-work .features-left .features-icon i {
+    display: table-cell;
+    vertical-align: middle;
+    height: 60px;
+    color: #d9534f!important;
+}
+
+#features-work .features-left .features-icon {
+  display: table;
+    float: left;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+#features-work .features-left .features-copy {
+    float: right;
+    width: 69%;
 }
 
 /* social */
@@ -259,6 +316,14 @@ video {
     width: 100%;
     height: auto;
 }
+
+/* Quotes typewriter*/
+.alert-information {
+  background-color: #40C9D7;
+  border-color: #38a9b5;
+  color: #333;
+}
+
 
 /*footer*/
 .footer {
