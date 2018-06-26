@@ -43,6 +43,17 @@ button {
     cursor: pointer;
 }
 
+/* mouse text selection color*/
+::-moz-selection { /* Code for Firefox */
+    color:#fff;
+    background:#40C9D7;
+}
+
+::selection {
+    color:#fff;
+    background:#40C9D7;
+}
+
 /* navbar */
 .navbar-inverse {
   background-color: transparent;
@@ -61,6 +72,10 @@ button {
 /*trabajos*/
 .trabajos {
   padding-top: 4rem;
+}
+.trabajos .section-description {
+  line-height: 1.6;
+  margin-bottom: 35px;
 }
 
 // Box shadow helper
@@ -214,6 +229,23 @@ h1.brand-cool {
 .brand-name {
   margin: 15px;
   color: #40C9D7;
+}
+
+/* Latest Posts */
+.latest-posts {
+  padding-top: 4rem;
+}
+.latest-posts .section-description {
+  line-height: 1.6;
+  width: 60%;
+  margin: 0 auto 35px;
+}
+.latest-posts .card-link {
+  color:#d9534f;
+  font-weight: bold;
+}
+.latest-posts .card {
+  margin-bottom: 25px;
 }
 
 /* social */
